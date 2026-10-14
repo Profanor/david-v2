@@ -38,7 +38,7 @@ export function Portfolio() {
       <ProjectsSection />
       <ExperienceSection />
       <CertificationsSection />
-      <TestimonialsSection />
+      {/* <TestimonialsSection /> */}
       <ArticlesSection />
       <ContactSection />
       <Footer onScrollTo={scrollTo} />
