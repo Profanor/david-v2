@@ -75,7 +75,7 @@ export function HeroSection({ onScrollTo }: HeroSectionProps) {
               <div className="mt-8 h-px bg-border/70" />
               <div className="grid grid-cols-2 gap-4 pt-2">
                 <div>
-                  <p className="text-2xl text-foreground">03<span className="text-brand-cyan">+</span></p>
+                  <p className="text-2xl text-foreground">04<span className="text-brand-cyan">+</span></p>
                   <p className="text-[10px] text-muted-foreground">years shipping</p>
                 </div>
                 <div>

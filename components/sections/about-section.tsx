@@ -29,7 +29,7 @@ export function AboutSection() {
 
           <div className="grid gap-5 sm:grid-cols-3">
             <div className="stat-card">
-              <p className="stat-number">03<span>+</span></p>
+              <p className="stat-number">04<span>+</span></p>
               <p className="stat-label">Years experience</p>
             </div>
             <div className="stat-card">
